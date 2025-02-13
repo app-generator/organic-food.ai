@@ -90,7 +90,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         href={`${basePath}/static/favicons/safari-pinned-tab.svg`}
         color="#5bbad5"
       />
-      <meta name="google-site-verification" content="3IUxSY6F-F3_7E0o_ftBhxRBr1UtpM6ydv0zFKRFeDk" />
+      <meta name="google-site-verification" content="4zS4GihmQmdohmStq51T9nUAY21ai7s_bv0j9egtV6Q" />
       <meta name="msapplication-TileColor" content="#000000" />
       <meta name="theme-color" media="(prefers-color-scheme: light)" content="#fff" />
       <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#000" />
